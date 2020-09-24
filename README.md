@@ -8,16 +8,12 @@ I'm a student of [Microverse](https://www.microverse.org/), a remote full-stack 
 
 Currently, I’m exploring new opportunities. 
 
-Check out my [Resume](), please feel free to pass it along :scroll:.
+Check out my [Resume](https://github.com/jamezjaz/jamezjaz/blob/master/Resume/Resume.pdf), please feel free to pass it along :scroll:.
 
 This is my [Portfolio](http://jamezjaz-portfolio.s3-website.us-east-2.amazonaws.com/) :desktop_computer:.
 
 <div>
-<img align="center" src='https://github-readme-stats.vercel.app/api?username=MuriloRoque&count_private=true&show_icons=true&theme=great-gatsby' alt='Murilo's github stats'>
-</div>
-
-<div align="center">
-  ![James' github stats](https://github-readme-stats.vercel.app/api?username=jamezjaz&count_private=true&show_icons=true&theme=great-gatsby)
+<img align="center" src='https://github-readme-stats.vercel.app/api?username=jamezjaz&count_private=true&show_icons=true&theme=great-gatsby' alt="James' github stats">
 </div>
 
 <br><br>

@@ -10,7 +10,7 @@ Currently, I’m exploring new opportunities.
 
 Check out my [Resume](https://github.com/jamezjaz/jamezjaz/blob/master/Resume/Resume.pdf), please feel free to pass it along :scroll:.
 
-This is my [Portfolio](http://jamezjaz-portfolio.s3-website.us-east-2.amazonaws.com/) :desktop_computer:.
+This is my [Portfolio](http://jaz-portfolio.s3-website.us-east-2.amazonaws.com/) :desktop_computer:.
 
 <div>
 <img align="center" src='https://github-readme-stats.vercel.app/api?username=jamezjaz&count_private=true&show_icons=true&theme=great-gatsby' alt="James' github stats">

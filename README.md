@@ -4,13 +4,13 @@ I’m James, a Full-Stack Developer, Microbiologist and Student Mentor.
 
 I enjoy building web pages, applications, and learning new skills. I'm a Case Manager as well as a Volunteer :handshake:. 
 
-I'm a student of [Microverse](https://www.microverse.org/), a remote full-stack development program with a focus on remote pair-programming, and project methodology. Just in the past 7 months, I’ve built 45 projects, registered over 1500 hours, and completed series of coding challenges :muscle:. 
+I'm a student of [Microverse](https://www.microverse.org/), a remote full-stack development program with a focus on remote pair-programming, and project methodology. Just in the past 11 months, I’ve built over 40 projects, registered over 1500 hours, and completed series of coding challenges :muscle:. 
 
 Currently, I’m exploring new opportunities. 
 
 Check out my [Resume](https://github.com/jamezjaz/jamezjaz/blob/master/Resume/Resume.pdf), please feel free to pass it along :scroll:.
 
-This is my [Portfolio](http://jaz-portfolio.s3-website.us-east-2.amazonaws.com/) :desktop_computer:.
+This is my [Portfolio](http://jamezjaz.com/) :desktop_computer:.
 
 <div>
 <img align="center" src='https://github-readme-stats.vercel.app/api?username=jamezjaz&count_private=true&show_icons=true&theme=great-gatsby' alt="James' github stats">

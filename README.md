@@ -4,7 +4,7 @@ I’m James, a Full-Stack Developer, Microbiologist and Student Mentor.
 
 I enjoy building web pages, applications, and learning new skills. I'm a Case Manager as well as a Volunteer :handshake:. 
 
-I'm a student of [Microverse](https://www.microverse.org/), a remote full-stack development program with a focus on remote pair-programming, and project methodology. Just in the past 11 months, I’ve built over 40 projects, registered over 1500 hours, and completed series of coding challenges :muscle:. 
+I'm a student of [Microverse](https://www.microverse.org/), a remote full-stack development program with a focus on remote pair-programming, and project methodology. Just in the past 15 months, I’ve built over 40 projects, registered over 1500 hours, and completed series of coding challenges :muscle:. 
 
 Currently, I’m exploring new opportunities. 
 
